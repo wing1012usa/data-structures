@@ -1,0 +1,882 @@
+                                                <br />
+                        <br />
+                    
+                                            <b>Mondays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> B = Beginners meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Mondays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> OD = Open Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Thursdays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> S = Step meeting <br /><b>Special Interest</b> Steps 1-2-3
+                                                <br />
+                        <br />
+                    
+                                            <b>Mondays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting <br /><b>Special Interest</b> Men
+                                                <br />
+                        <br />
+                    
+                                            <b>Thursdays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> S = Step meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Tuesdays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> B = Beginners meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Thursdays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> S = Step meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Tuesdays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Tuesdays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> S = Step meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Fridays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> B = Beginners meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Fridays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> BB = Big Book meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Fridays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> S = Step meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Wednesdays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> B = Beginners meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Wednesdays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> OD = Open Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Wednesdays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting <br /><b>Special Interest</b> Women
+                                                <br />
+                        <br />
+                    
+                                            <b>Sundays From</b>  5:00 PM <b>to</b> 6:00 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Wednesdays From</b>  5:30 PM <b>to</b> 6:30 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Mondays From</b>  5:30 PM <b>to</b> 6:30 PM <br /><b>Meeting Type</b> B = Beginners meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Thursdays From</b>  5:30 PM <b>to</b> 6:30 PM <br /><b>Meeting Type</b> S = Step meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Tuesdays From</b>  5:30 PM <b>to</b> 6:30 PM <br /><b>Meeting Type</b> BB = Big Book meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Fridays From</b>  5:30 PM <b>to</b> 6:30 PM <br /><b>Meeting Type</b> OD = Open Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=273" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;"></h4><br />
+                                            <b>NEW PHOENIX - </b><br />
+                                                303 West 42nd Street,  Room #306, 
+                                                <br />(Betw. 8th & 9th Avenues) 10036
+                                                <br />
+                                                <br />
+                        
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Sundays From</b>  10:30 AM <b>to</b> 11:30 AM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Mondays From</b>  10:30 AM <b>to</b> 11:30 AM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Tuesdays From</b>  10:30 AM <b>to</b> 11:30 AM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Wednesdays From</b>  10:30 AM <b>to</b> 11:30 AM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Thursdays From</b>  10:30 AM <b>to</b> 11:30 AM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Fridays From</b>  10:30 AM <b>to</b> 11:30 AM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Saturdays From</b>  10:30 AM <b>to</b> 11:30 AM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=561" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">Holy Apostles Church Rectory</h4><br />
+                                            <b>NINTH AVENUE           (:I) - Ninth Avenue     (:I)</b><br />
+                                                296 9th Avenue, 2nd Floor, 
+                                                <br />(Corner of West 28th Street) NY 10001
+                                                <br />
+                                                <br />
+                        
+                        <div class="detailsBox"> 
+                                Business meeting held on 1st Monday at 7:45pm <br />LGBTQ Friendly.  All are welcome. 
+                        </div>
+                        
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Wednesdays From</b>  6:15 PM <b>to</b> 7:15 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Mondays From</b>  6:15 PM <b>to</b> 7:15 PM <br /><b>Meeting Type</b> B = Beginners meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Wednesdays From</b>  7:30 PM <b>to</b> 8:45 PM <br /><b>Meeting Type</b> S = Step meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Mondays From</b>  7:45 PM <b>to</b> 8:45 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Wednesdays From</b>  9:00 PM <b>to</b> 10:00 PM <br /><b>Meeting Type</b> B = Beginners meeting <br /><b>Special Interest</b> First Step Workshop
+                                                <br />
+                        <br />
+                    
+                                            <b>Mondays From</b>  9:00 PM <b>to</b> 10:00 PM <br /><b>Meeting Type</b> O = Open meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=285" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">St. Francis of Assisi Center</h4><br />
+                                            <b>NU GARDEN - Nu Garden</b><br />
+                                                139 West 31st Street, 3rd Floor, 
+                                                <br />(Betw 6th & 7th Avenues) NY 10001
+                                                <br />
+                                                <br />
+                        
+                        <div class="detailsBox"> 
+                                All meetings are non-smoking. 
+                        </div>
+                        
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Sundays From</b>  6:00 PM <b>to</b> 7:30 PM <br /><b>Meeting Type</b> S = Step meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Thursdays From</b>  6:00 PM <b>to</b> 7:30 PM <br /><b>Meeting Type</b> OD = Open Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Saturdays From</b>  6:00 PM <b>to</b> 7:30 PM <br /><b>Meeting Type</b> OD = Open Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=287" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">St. Thomas Church</h4><br />
+                                            <b>PARK BENCH   (:I) - </b><br />
+                                                1 West 53rd Street, 3rd Floor, 
+                                                10019
+                                                <br />
+                                                <br />
+                         
+                                                <span style="color:darkblue; font-size:10pt;">
+                        <img src="../images/wheelchair.jpg" alt="Wheelchair Access" width="20" vspace="5" hspace="10" align="absmiddle"/>Wheelchair access
+                        </span>
+                          
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Tuesdays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> OD = Open Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=1400" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">Manhattan Plaza Health Club</h4><br />
+                                            <b>POWERLESS - Powerless</b><br />
+                                                484 West 43rd Street, 1st Floor, 
+                                                <br />@ 43rd Street & 10th Avenue NY 10036
+                                                <br />
+                                                <br />
+                        
+                        <div class="detailsBox"> 
+                                Fri=Living Sober, Sat=Promises 
+                        </div>
+                         
+                                                <span style="color:darkblue; font-size:10pt;">
+                        <img src="../images/wheelchair.jpg" alt="Wheelchair Access" width="20" vspace="5" hspace="10" align="absmiddle"/>Wheelchair access
+                        </span>
+                          
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Saturdays From</b>  7:00 PM <b>to</b> 8:00 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting <br /><b>Special Interest</b> Promises
+                                                <br />
+                        <br />
+                    
+                                            <b>Mondays From</b>  7:00 PM <b>to</b> 8:00 PM <br /><b>Meeting Type</b> BB = Big Book meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Tuesdays From</b>  7:00 PM <b>to</b> 8:00 PM <br /><b>Meeting Type</b> S = Step meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Thursdays From</b>  7:00 PM <b>to</b> 8:00 PM <br /><b>Meeting Type</b> B = Beginners meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Fridays From</b>  7:00 PM <b>to</b> 8:00 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting <br /><b>Special Interest</b> Living Sober
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=302" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">Fifth Av Presbyterian Church</h4><br />
+                                            <b>PROMISES - Promises</b><br />
+                                                7 West 55th Street, 
+                                                <br />(@ 5th Av) NY 10019
+                                                <br />
+                                                <br />
+                         
+                                                <span style="color:darkblue; font-size:10pt;">
+                        <img src="../images/wheelchair.jpg" alt="Wheelchair Access" width="20" vspace="5" hspace="10" align="absmiddle"/>Wheelchair access
+                        </span>
+                          
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Fridays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> OD = Open Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=304" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">46th Street Club House</h4><br />
+                                            <b>PROMISES - </b><br />
+                                                252 West 46th Street, 3rd Floor, 
+                                                <br />(Betw. Broadway & 8 Avenue) 10036
+                                                <br />
+                                                <br />
+                        
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Thursdays From</b>  9:15 PM <b>to</b> 10:15 PM <br /><b>Meeting Type</b> S = Step meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=568" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">46th Street Club House</h4><br />
+                                            <b>RAINBOW ROOM - Rainbow Room</b><br />
+                                                252 West 46th Street, 3rd Floor, 
+                                                <br />(Betw. Broadway & 8th Avenue) NY 10036
+                                                <br />
+                                                <br />
+                        
+                        <div class="detailsBox"> 
+                                Gay, Lesbian, Bisexual & Transgender Focus.  All are welcome. <br />*Last Saturday of month="Open Anniversary" 
+                        </div>
+                        
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Saturdays From</b>  5:30 PM <b>to</b> 6:30 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Wednesdays From</b>  5:30 PM <b>to</b> 6:30 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Sundays From</b>  5:30 PM <b>to</b> 6:30 PM <br /><b>Meeting Type</b> S = Step meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Thursdays From</b>  5:30 PM <b>to</b> 6:30 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Mondays From</b>  5:30 PM <b>to</b> 6:30 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Fridays From</b>  5:30 PM <b>to</b> 6:30 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Tuesdays From</b>  5:30 PM <b>to</b> 6:30 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Saturdays From</b>  6:45 PM <b>to</b> 7:45 PM <br /><b>Meeting Type</b> B = Beginners meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Wednesdays From</b>  6:45 PM <b>to</b> 7:45 PM <br /><b>Meeting Type</b> OD = Open Discussion meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Sundays From</b>  6:45 PM <b>to</b> 7:45 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Mondays From</b>  6:45 PM <b>to</b> 7:45 PM <br /><b>Meeting Type</b> OD = Open Discussion meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Fridays From</b>  6:45 PM <b>to</b> 7:45 PM <br /><b>Meeting Type</b> OD = Open Discussion meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Tuesdays From</b>  6:45 PM <b>to</b> 7:45 PM <br /><b>Meeting Type</b> OD = Open Discussion meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Thursdays From</b>  6:45 PM <b>to</b> 7:45 PM <br /><b>Meeting Type</b> OD = Open Discussion meeting <br /><b>Special Interest</b> H.I.V Positive
+                                                <br />
+                        <br />
+                    
+                                            <b>Tuesdays From</b>  8:00 PM <b>to</b> 9:00 PM <br /><b>Meeting Type</b> BB = Big Book meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Saturdays From</b>  8:00 PM <b>to</b> 9:00 PM <br /><b>Meeting Type</b> O = Open meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Sundays From</b>  8:00 PM <b>to</b> 9:00 PM <br /><b>Meeting Type</b> BB = Big Book meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Thursdays From</b>  8:00 PM <b>to</b> 9:00 PM <br /><b>Meeting Type</b> O = Open meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Mondays From</b>  8:00 PM <b>to</b> 9:00 PM <br /><b>Meeting Type</b> O = Open meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Fridays From</b>  8:00 PM <b>to</b> 9:00 PM <br /><b>Meeting Type</b> S = Step meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                            <b>Wednesdays From</b>  8:00 PM <b>to</b> 9:00 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting <br /><b>Special Interest</b> Gay, Lesbian and Bisexual
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=307" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">The Learning Center</h4><br />
+                                            <b>RENAISSANCE - Renaissance</b><br />
+                                                4 West 43rd Street, 
+                                                <br />(Off of 5th Avenue) NY 10017
+                                                <br />
+                                                <br />
+                         
+                                                <span style="color:darkblue; font-size:10pt;">
+                        <img src="../images/wheelchair.jpg" alt="Wheelchair Access" width="20" vspace="5" hspace="10" align="absmiddle"/>Wheelchair access
+                        </span>
+                          
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Mondays From</b>  12:30 AM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Tuesdays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Wednesdays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> S = Step meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Thursdays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> B = Beginners meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Fridays From</b>  12:30 PM <b>to</b> 1:30 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=312" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">46th Street Club House</h4><br />
+                                            <b>SATURDAY ROTATING 12 STEP - </b><br />
+                                                252 West 46th Street, 3rd Floor, 
+                                                <br />(Betw. Broadway & 8th Avenue) 10036
+                                                <br />
+                                                <br />
+                        
+                        <div class="detailsBox"> 
+                                Rotating Step meeting. 
+                        </div>
+                        
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Saturdays From</b>  9:15 PM <b>to</b> 10:15 PM <br /><b>Meeting Type</b> S = Step meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=573" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">Church of The Holy Apostles</h4><br />
+                                            <b>SPIRITUAL FRIDAYS - </b><br />
+                                                296 Ninth Avenue, Rectory, 1st Floor, 
+                                                <br />(@28th street, Enter at 9th avenue, small building south of the church) 10001
+                                                <br />
+                                                <br />
+                        
+                        <div class="detailsBox"> 
+                                <br />Topic meeting, focus is on Spirituality 
+                        </div>
+                        
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Fridays From</b>  6:30 PM <b>to</b> 7:30 PM <br /><b>Meeting Type</b> OD = Open Discussion meeting <br /><b>Special Interest</b> Spiritual Workshop
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=1356" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">St. Thomas Church Parish House</h4><br />
+                                            <b>ST. THOMAS A.M. - St. Thomas A.M.</b><br />
+                                                1 West 53rd Street, 3rd Floor, 
+                                                <br />(@ 5th Avenue) NY 10019
+                                                <br />
+                                                <br />
+                        
+                        <div class="detailsBox"> 
+                                Round Robin Meeting. 
+                        </div>
+                        
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Tuesdays From</b>  7:45 AM <b>to</b> 8:45 AM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=364" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">St. John the Baptist Church</h4><br />
+                                            <b>STATLER AT NOON - Statler At Noon</b><br />
+                                                210 West 31st Street, Basement (On Left), 
+                                                <br />(Betw. 7th & 8th Aves) NY 10001
+                                                <br />
+                                                <br />
+                        
+                        <div class="detailsBox"> 
+                                T Last Thursday; S other Thursdays <br />All meetings are non-smoking. 
+                        </div>
+                        
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Tuesdays From</b>  12:00 PM <b>to</b> 1:00 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                            <b>Thursdays From</b>  12:00 PM <b>to</b> 1:00 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=365" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">Trinity Presbyterian Church</h4><br />
+                                            <b>STEPS AND TRADITIONS ON WEDNESDAY - Eightieth Street</b><br />
+                                                422 West 57th Street, 
+                                                <br />(Betw 9th and 10th Avenue) NY 10019
+                                                <br />
+                                                <br />
+                        
+                        <div class="detailsBox"> 
+                                T-1st Wednesday 
+                        </div>
+                        
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Wednesdays From</b>  7:00 PM <b>to</b> 8:15 PM <br /><b>Meeting Type</b> S = Step meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=142" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">46th Street Club House</h4><br />
+                                            <b>SUNDAY NIGHT BEGINNERS - </b><br />
+                                                252 West 46th Street, 3rd Floor, 
+                                                <br />(Betw. Broadway & 8th Avenue) 10036
+                                                <br />
+                                                <br />
+                        
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Sundays From</b>  9:15 PM <b>to</b> 10:15 PM <br /><b>Meeting Type</b> B = Beginners meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=574" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;"></h4><br />
+                                            <b>TUESDAY SOBER AGNOSTICS - </b><br />
+                                                134 West 29th Street - 2nd floor Studio 203, 
+                                                10001
+                                                <br />
+                                                <br />
+                        
+                        <div class="detailsBox"> 
+                                Agnostic- no prayer 
+                        </div>
+                         
+                                                <span style="color:darkblue; font-size:10pt;">
+                        <img src="../images/wheelchair.jpg" alt="Wheelchair Access" width="20" vspace="5" hspace="10" align="absmiddle"/>Wheelchair access
+                        </span>
+                          
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Tuesdays From</b>  6:00 PM <b>to</b> 7:00 PM <br /><b>Meeting Type</b> OD = Open Discussion meeting <br /><b>Special Interest</b> Agnostic
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=1481" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">Mount Sinai - Roosevelt Hospital</h4><br />
+                                            <b>WEST 58th STREET STEP - West 58th Street Step</b><br />
+                                                1000 Tenth Avenue, 8th Fl, Room #8G-49, 
+                                                <br />(Betw 58th & 59th Streets) NY 10019
+                                                <br />
+                                                <br />
+                         
+                                                <span style="color:darkblue; font-size:10pt;">
+                        <img src="../images/wheelchair.jpg" alt="Wheelchair Access" width="20" vspace="5" hspace="10" align="absmiddle"/>Wheelchair access
+                        </span>
+                          
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Fridays From</b>  7:30 PM <b>to</b> 8:30 PM <br /><b>Meeting Type</b> S = Step meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=408" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">GMHC</h4><br />
+                                            <b>WOMEN OVER FORTY - Women Over Forty</b><br />
+                                                446 West 33rd Street, 
+                                                <br />(Betw. 9th & 10th Avenues) NY 10001
+                                                <br />
+                                                <br />
+                        
+                        <div class="detailsBox"> 
+                                S 1st, C 2nd, BB 3rd, O Anniversary Meeting 4th Friday <br />Women's Meeting. 
+                        </div>
+                         
+                                                <span style="color:darkblue; font-size:10pt;">
+                        <img src="../images/wheelchair.jpg" alt="Wheelchair Access" width="20" vspace="5" hspace="10" align="absmiddle"/>Wheelchair access
+                        </span>
+                          
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Fridays From</b>  6:30 PM <b>to</b> 7:45 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting <br /><b>Special Interest</b> Women
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=419" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">St. Clements Church</h4><br />
+                                            <b>YOUNG IN 164 - </b><br />
+                                                423 West 46th Street, 
+                                                <br />(Betw. 9th and 10th) Downstairs 10036
+                                                <br />
+                                                <br />
+                         
+                                                <span style="color:darkblue; font-size:10pt;">
+                        <img src="../images/wheelchair.jpg" alt="Wheelchair Access" width="20" vspace="5" hspace="10" align="absmiddle"/>Wheelchair access
+                        </span>
+                          
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Sundays From</b>  7:30 PM <b>to</b> 8:30 PM <br /><b>Meeting Type</b> BB = Big Book meeting 
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=436" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                                   
+                  <tr style="margin-bottom:10px">
+                    <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+                        <h4 style="margin:0;padding:0;">46th Street Club House</h4><br />
+                                            <b>YOUNG PEOPLE'S MEETING - </b><br />
+                                                252 West 46th Street, 3rd Floor, 
+                                                <br />Btw. 7th & 8th Avenues @ 46th Street Clubhouse 10036
+                                                <br />
+                                                <br />
+                        
+                        <div class="detailsBox"> 
+                                Young People BB Meeting 
+                        </div>
+                        
+
+                    </td>
+                    <td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                         
+                                            <b>Fridays From</b>  9:15 PM <b>to</b> 10:15 PM <br /><b>Meeting Type</b> BB = Big Book meeting <br /><b>Special Interest</b> Young People
+                                                <br />
+                        <br />
+                    
+                                        </td> 
+                    <td style="border-bottom:1px solid #dedede; width:90px; ">
+                        <a href="getdirections.cfm?meetingid=1438" class="GetDirections">Get Directions</a>
+                    </td>
+                  </tr>
+                                  
+
+                </tbody>
+              </table>
+                          
+                          </td>
+          </tr>
+          <tr>
+            <td width="640" bgcolor="E1E1E1"><p align="center">&nbsp;</p>
+<hr /><center>
+<a href="http://www.nyintergroup.org/corrsvce.cfm">Corrections Service</a> | 
+<a href="http://www.nyintergroup.org/pubinfsvce.cfm">Public Information Service</a> | 
+<a href="http://www.nyintergroup.org/hospsvce.cfm">Treatment Facilities  Services</a><br>
+  <a href="http://www.nyintergroup.org/03events.cfm">Year 2015 Events</a> | <a href="http://www.nyintergroup.org/duties.cfm">Group 
+  Officer's Suggested Duties</a> | <a href="http://www.nyintergroup.org/meetinglist">Meeting 
+  List</a><br>
+<a href="http://www.nyintergroup.org/faq.cfm">Frequently Asked Questions</a> |
+ <a href="http://www.nyintergroup.org">Home Page</a>   | <a href="http://www.nyintergroup.org/donationform_seventhtradition.pdf">Donation Form / Seventh Tradition</a> | <a href="/contact.cfm">Contact Us</a>
+<br />
+</center>
+<br></td>
+          </tr>
+        </table>
+        <!--end middle table --></td>
+    </tr>
+  </table>
+  <p align="center">&nbsp;</p>
+<hr /><center>
+<a href="http://www.nyintergroup.org/corrsvce.cfm">Corrections Service</a> | 
+<a href="http://www.nyintergroup.org/pubinfsvce.cfm">Public Information Service</a> | 
+<a href="http://www.nyintergroup.org/hospsvce.cfm">Treatment Facilities  Services</a><br>
+  <a href="http://www.nyintergroup.org/03events.cfm">Year 2015 Events</a> | <a href="http://www.nyintergroup.org/duties.cfm">Group 
+  Officer's Suggested Duties</a> | <a href="http://www.nyintergroup.org/meetinglist">Meeting 
+  List</a><br>
+<a href="http://www.nyintergroup.org/faq.cfm">Frequently Asked Questions</a> |
+ <a href="http://www.nyintergroup.org">Home Page</a>   | <a href="http://www.nyintergroup.org/donationform_seventhtradition.pdf">Donation Form / Seventh Tradition</a> | <a href="/contact.cfm">Contact Us</a>
+<br />
+</center>
+<br>
+</center>
+</body>
+</html>
