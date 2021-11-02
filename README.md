@@ -124,3 +124,5 @@ dynamodb.putItem(params, function (err, data) {
   if (err) console.log(err, err.stack); // an error occurred
   else     console.log(data);           // successful response
 });
+![Screen Shot 2021-11-02 at 1 09 48 PM](https://user-images.githubusercontent.com/57466154/139912762-2a4fe1bd-d43c-412f-b73d-13136ae2c7d7.png)
+
